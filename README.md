@@ -1,4 +1,4 @@
-# GENEVIIC_SupplimentaryPGS 
+# GENEVIIC: Supplimentary Materials
 Includes supplementary materials for the application "GENEVIIC"
 >- Database:
 >> - PGS Rank Database schema diagram in jpg and pdf formats:
