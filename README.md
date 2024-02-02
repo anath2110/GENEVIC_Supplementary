@@ -2,8 +2,13 @@
 
 ## Overview
 This repository contains all supplementary materials to support the project "GENEVIIC".
+### Application Overview
 
-### Contents:
+Below is a diagram describing the GENEVIIC application:
+
+![GENEVIIC Application Diagram](./path/to/your/image.png)
+
+#### Contents:
 
 - **Database:**
   - **PGS Rank Database Schema Diagram** (JPG and PDF formats): 
