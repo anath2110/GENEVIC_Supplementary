@@ -11,6 +11,14 @@ This repository contains all supplementary materials to support the project "GEN
   - **PGS Rank Database File** (.db file): 
     - A sample database of reduced size, featuring only the top 300 genes—100 each for Alzheimer's, Schizophrenia, and Cognitive traits. This subset is used to deploy our application "GENEVIIC" in the Streamlit community cloud.
 
+- **Test Runs:**  
+  - ExamplePrompts_GeneAPIChat.pdf: Prompt suggestions for testing the application page, "Gene API Chat"
+  - ExamplePrompts_LiteratureSearch.pdf: Prompt suggestions for testing the application page, "Literature Search"
+  - ExamplePrompts_PGSChat.pdf: Prompt suggestions for testing the application page, "PGS Chat"
+  - GENEVIIC_geneapichat.png: Screenshot for a test case--user input and corresponding output--for testing the application page, "Gene API Chat"
+  - GENEVIIC_litsearch.png: Screenshot for a test case--user input and corresponding output--for testing the application page, "Literature Search"
+  - GENEVIIC_pgschat.png: Screenshot for a test case--user input and corresponding output--for testing the application page, "PGS Chat"
+  - GraphicalAbstractV2.png: Overview of the main functionalities and the supporting data and technologies used for the application, "GENEVIIC"
 - **Tutorial:**  
   - Azure Open AI Documentation.pdf: Instructions on how to subscribe to Azure Open AI services.
   - InstallationGuide.md: Instructions to install and run the application "GENEVIIC" on the local host as well as through the weblink.
