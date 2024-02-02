@@ -6,7 +6,7 @@ This repository contains all supplementary materials to support the project "GEN
 
 Below is a diagram describing the GENEVIIC application:
 
-![GENEVIIC Application Diagram](./path/to/your/image.png)
+![GENEVIIC Application Diagram](GraphicalAbstractV2.png)
 
 #### Contents:
 
