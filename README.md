@@ -18,7 +18,7 @@ This repository contains all supplementary materials to support the project "GEN
   - **GENEVIIC_geneapichat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Gene API Chat"
   - **GENEVIIC_litsearch.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Literature Search"
   - **GENEVIIC_pgschat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "PGS Chat"
-  - **GraphicalAbstractV2**.png: Overview of the main functionalities and the supporting data and technologies used for the application, "GENEVIIC"
+    
 - **Tutorial:**  
   - **Azure Open AI Documentation.pdf**: Instructions on how to subscribe to Azure Open AI services.
   - **InstallationGuide.md**: Instructions to install and run the application "GENEVIIC" on the local host as well as through the weblink.
