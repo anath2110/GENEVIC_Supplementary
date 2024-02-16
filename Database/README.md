@@ -6,6 +6,6 @@ This database, inspired by the *PGS Catalog Website*, serves as a pivotal resour
 
 This specialized database is designed to facilitate the exploration and analysis of gene-disease associations, providing researchers with comprehensive variant ranks corresponding to three different phenotypes, 
 
-The original .csv files used to create the corresponding tables can be found [here](https://www.pgscatalog.org/downloads/#dl_ftp_list).
-The metadata describing each of the tables and its columns are explained [here](https://www.pgscatalog.org/downloads/#dl_ftp_list).
+The original .csv files used to create the corresponding tables can be downloaded from [here](https://www.pgscatalog.org/downloads/#dl_ftp_list).
+The metadata describing each of the tables and its columns are explained [in this website link](https://www.pgscatalog.org/downloads/#dl_ftp_list).
 
