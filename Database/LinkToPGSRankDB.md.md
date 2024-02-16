@@ -1,0 +1,2 @@
+[Click to download PGS Rank Database (.db format)](https://1drv.ms/u/s!AseKDnkTg9K9wYEmeJ_RAVDDGwAcSA?e=5WWxYd).
+[Click to download PGS Rank Database(.zip format)](https://1drv.ms/u/s!AseKDnkTg9K9wYEo8MEbKC0Kvbp4Rg?e=46BICY).
