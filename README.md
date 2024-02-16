@@ -28,5 +28,5 @@ Below is a diagram describing the GENEVIC application:
   - **Azure Open AI Documentation.pdf**: Instructions on how to subscribe to Azure Open AI services.
   - **InstallationGuide.md**: Instructions to install and run the application "GENEVIC" on the local host as well as through the weblink.
   - **TSHOOT.md**: A troubleshooting guide for the usual problems faced while installing the pre-requisites and other required backed software and subsequently running "GENEVIC" on the local host.
-  - **video_tutorial.mp4**: A video tutorial simulating an example run of "GENEVIC", designed to facilitate easy access and navigation through the application.
+  - **NavigationTutorial.md**: Link to a video tutorial simulating an example run of "GENEVIC", designed to facilitate easy access and navigation through the application.
 
