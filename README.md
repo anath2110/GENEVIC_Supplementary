@@ -26,7 +26,7 @@ Below is a diagram describing the GENEVIC application:
    - **Literature Search**:
       - **ExamplePrompts_LiteratureSearch.pdf**: Prompt suggestions for testing the application page, "Literature Search"   
       - **GENEVIC_litsearch.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Literature Search"
-  - **GeneVIC_TestRuns.png**: Overview of Genevic Architecture with the sample test runs for each of the functionality interface.
+  - **GENEVIC_TestRuns.png**: Overview of Genevic Architecture with the sample test runs for each of the functionality interface.
 
 - **Tutorial:**  
   - **Azure Open AI Documentation.pdf**: Instructions on how to subscribe to Azure Open AI services.
