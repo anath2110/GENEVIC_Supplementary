@@ -16,14 +16,19 @@ Below is a diagram describing the GENEVIC application:
   - **PGS Rank Database File** (.db file): 
     - A sample database of reduced size, featuring only the top 300 genes—100 each for Alzheimer's, Schizophrenia, and Cognitive traits. This subset is used to deploy our application "GENEVIC" in the Streamlit community cloud.
 
-- **Test Runs:**  
-  - **ExamplePrompts_GeneAPIChat.pdf**: Prompt suggestions for testing the application page, "Gene API Chat"
-  - **ExamplePrompts_LiteratureSearch.pdf**: Prompt suggestions for testing the application page, "Literature Search"
-  - **ExamplePrompts_PGSChat.pdf**: Prompt suggestions for testing the application page, "PGS Chat"
-  - **GENEVIC_geneapichat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Gene API Chat"
-  - **GENEVIC_litsearch.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Literature Search"
-  - **GENEVIC_pgschat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "PGS Chat"
-    
+- **Test Runs:**
+  - **PGS Chat**:
+      - ***ExamplePrompts_PGSChat.pdf**: Prompt suggestions for testing the application page, "PGS Chat"
+      - **GENEVIC_pgschat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "PGS Chat"
+  - **GeneAPI Chat**:
+      - **ExamplePrompts_GeneAPIChat.pdf**: Prompt suggestions for testing the application page, "Gene API Chat"
+      - **GENEVIC_geneapichat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Gene API Chat"
+   - **Literature Search**:
+      - **ExamplePrompts_LiteratureSearch.pdf**: Prompt suggestions for testing the application page, "Literature Search"   
+      - **GENEVIC_litsearch.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Literature Search"
+
+ 
+
 - **Tutorial:**  
   - **Azure Open AI Documentation.pdf**: Instructions on how to subscribe to Azure Open AI services.
   - **InstallationGuide.md**: Instructions to install and run the application "GENEVIC" on the local host as well as through the weblink.
