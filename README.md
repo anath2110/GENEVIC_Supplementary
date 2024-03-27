@@ -1,7 +1,7 @@
 # GENEVIC: Supplementary Materials
 
 ## Overview
-This repository contains all supplementary materials to support the project "GENEVIC".
+This repository contains all supplementary materials to support the project GENEVIC.
 ### Diagrammatic Overview
 
 Below is a diagram describing the workflow between the three functionalities of GENEVIC and the back-end tech-stack:
@@ -14,7 +14,7 @@ Workflow overview between the front-end user interface and the back-end architec
   - **PGS Rank Database Schema Diagram** (JPG and PDF formats): 
     - Diagrammatic representation of the database's tables, indices, key constraints, and relationships.
   - **PGS Rank Database File** (.db file): 
-    - A sample database of reduced size, featuring only the top 300 genes—100 each for Alzheimer's, Schizophrenia, and Cognitive traits. This subset is used to deploy our application "GENEVIC" in the Streamlit community cloud.
+    - A sample database of reduced size, featuring only the top 300 genes—100 each for Alzheimer's diesease, schizophrenia, and cognition traits. This subset is used to deploy our application GENEVIC in the Streamlit community cloud.
 
 - **Test Runs:**
   - **PGS Chat**:
@@ -26,12 +26,12 @@ Workflow overview between the front-end user interface and the back-end architec
    - **Literature Search**:
       - **ExamplePrompts_LiteratureSearch.pdf**: Prompt suggestions for testing the application page, "Literature Search"   
       - **Screenshots_litsearch.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Literature Search"
-  - **CompiledScreenshots.png**: Overview of Genevic Architecture with the compiled sample test runs for each of the three functionalities.
+  - **CompiledScreenshots.png**: Overview of GENEVIC Architecture with the compiled sample test runs for each of the three functionalities.
   - **TestRuns_explained.pdf**: Includes motivation, background, and detailed navigation guide of GENEVIC, including explanation of each test run's screenshot.
 
 - **Tutorial:**  
   - **Azure Open AI Documentation.pdf**: Instructions on how to subscribe to Azure Open AI services.
-  - **InstallationGuide.md**: Instructions to install and run the application "GENEVIC" on the local host as well as through the weblink.
-  - **TSHOOT.md**: A troubleshooting guide for the usual problems faced while installing the pre-requisites and other required backed software and subsequently running "GENEVIC" on the local host.
-  - **NavigationTutorial.md**: Link to a video tutorial simulating an example run of "GENEVIC", designed to facilitate easy access and navigation through the application.
+  - **InstallationGuide.md**: Instructions to install and run the application GENEVIC on the local host as well as through the weblink.
+  - **TSHOOT.md**: A troubleshooting guide for the usual problems faced while installing the pre-requisites and other required backed software and subsequently running GENEVIC on the local host.
+  - **NavigationTutorial.md**: Link to a video tutorial simulating an example run of GENEVIC, designed to facilitate easy access and navigation through the application.
 
