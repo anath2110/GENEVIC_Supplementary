@@ -4,7 +4,7 @@
 This repository contains all supplementary materials to support the project "GENEVIC".
 ### Application Overview
 
-Below is a diagram describing the GENEVIC application:
+Below is a diagram describing the workflow between the three functionalities of GENEVIC and the back-end tech-stack:
 
 ![GENEVIC Overview Diagram](Architecture_Workflow_Schema.png)
 
