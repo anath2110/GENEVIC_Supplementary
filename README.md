@@ -7,7 +7,7 @@ This repository contains all supplementary materials to support the project "GEN
 Below is a diagram describing the workflow between the three functionalities of GENEVIC and the back-end tech-stack:
 
 ![GENEVIC Overview Diagram](Architecture_Workflow_Schema.png)
-
+Workflow overview between the front-end user interface and the back-end architecture of GENEVIC: (i) User prompts from the interface are sent to the back-end for processing and then, (ii) Generated output is sent back to the user. The backend comprises common AI services, supported by data tools exclusive to each of the three functionalities: PGS Chat (I), GENEAPI Chat (II), and Literature Search (III). The user prompts: Prompt Ia, Prompt IIa, Prompt IIb, Prompt IIIa and Prompt IIIb generate GENEVIC outputs: Output Ia, Output IIa, Output IIb, Output IIIa and output IIIb, respectively.
 #### Contents:
 
 - **Database:**
