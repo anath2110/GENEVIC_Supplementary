@@ -27,7 +27,7 @@ Workflow overview between the front-end user interface and the back-end architec
       - **ExamplePrompts_LiteratureSearch.pdf**: Prompt suggestions for testing the application page, "Literature Search"   
       - **Screenshots_litsearch.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Literature Search"
   - **CompiledScreenshots.png**: Overview of GENEVIC Architecture with the compiled sample test runs for each of the three functionalities.
-  - **TestRuns_explained.pdf**: Includes motivation, background, and detailed navigation guide of GENEVIC, including explanation of each test run's screenshot.
+  - **TestCases_explained.pdf**: Includes motivation, background, and detailed navigation guide of GENEVIC, including explanation of each test run's screenshot.
 
 - **Tutorial:**  
   - **Azure Open AI Documentation.pdf**: Instructions on how to subscribe to Azure Open AI services.
