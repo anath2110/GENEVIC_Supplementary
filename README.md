@@ -18,15 +18,16 @@ Workflow overview between the front-end user interface and the back-end architec
 
 - **Test Runs:**
   - **PGS Chat**:
-      - ***ExamplePrompts_PGSChat.pdf**: Prompt suggestions for testing the application page, "PGS Chat"
-      - **GENEVIC_pgschat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "PGS Chat"
+      - **ExamplePrompts_PGSChat.pdf**: Prompt suggestions for testing the application page, "PGS Chat"
+      - **Screenshots_pgschat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "PGS Chat"
   - **GeneAPI Chat**:
       - **ExamplePrompts_GeneAPIChat.pdf**: Prompt suggestions for testing the application page, "Gene API Chat"
-      - **GENEVIC_geneapichat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Gene API Chat"
+      - **Screenshots_geneapichat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Gene API Chat"
    - **Literature Search**:
       - **ExamplePrompts_LiteratureSearch.pdf**: Prompt suggestions for testing the application page, "Literature Search"   
-      - **GENEVIC_litsearch.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Literature Search"
-  - **GENEVIC_TestRuns.png**: Overview of Genevic Architecture with the sample test runs for each of the functionality interface.
+      - **Screenshots_litsearch.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Literature Search"
+  - **CompiledScreenshots.png**: Overview of Genevic Architecture with the compiled sample test runs for each of the three functionalities.
+  - **TestRuns_explained.pdf**: Includes motivation, background, and detailed navigation guide of GENEVIC, including explanation of each test run's screenshot.
 
 - **Tutorial:**  
   - **Azure Open AI Documentation.pdf**: Instructions on how to subscribe to Azure Open AI services.
