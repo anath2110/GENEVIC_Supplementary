@@ -19,14 +19,13 @@ Workflow overview between the front-end user interface and the back-end architec
 - **Test Runs:**
   - **PGS Chat**:
       - **ExamplePrompts_PGSChat.pdf**: Prompt suggestions for testing the application page, "PGS Chat"
-      - **Screenshots_pgschat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "PGS Chat"
+      - **PGSChat Test Cases.pdf**: Screenshots for test/use cases--user input and corresponding output--for testing GENEVIC page, "PGS Chat"
   - **GeneAPI Chat**:
       - **ExamplePrompts_GeneAPIChat.pdf**: Prompt suggestions for testing the application page, "Gene API Chat"
-      - **Screenshots_geneapichat.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Gene API Chat"
+      - **GeneAPI Chat Test Cases.pdf**: Screenshots for test/use cases--user input and corresponding output--for testing GENEVIC page, "Gene API Chat"
    - **Literature Search**:
       - **ExamplePrompts_LiteratureSearch.pdf**: Prompt suggestions for testing the application page, "Literature Search"   
-      - **Screenshots_litsearch.png**: Screenshot for a test case--user input and corresponding output--for testing the application page, "Literature Search"
-  - **CompiledScreenshots.png**: Overview of GENEVIC Architecture with the compiled sample test runs for each of the three functionalities.
+      - **Literature Search Test Cases.pdf**: Screenshots for test/use cases--user input and corresponding output--for testing the GENEVIC page, "Literature Search"
   - **Documentation_TestCasesExplained.pdf**: Includes motivation, background, and detailed navigation guide of GENEVIC, including explanation of each test run's screenshot.
 
 - **Tutorial:**  
