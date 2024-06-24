@@ -76,4 +76,4 @@ Help Resources: [https://docs.docker.com/engine/install/](https://docs.docker.co
 ---
 
 ## Web Usage
-Access the web application at: [https://geneviic-anathjan24.streamlit.app/](https://geneviic-anathjan24.streamlit.app/)
+Access the web application at: [https://genevic-anath2024.streamlit.app/](https://genevic-anath2024.streamlit.app/)
